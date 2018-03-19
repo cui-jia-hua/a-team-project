@@ -15,5 +15,6 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <TextBlock Text="cuijiahua" FontSize="60" Grid.Row="0"/>
+        <TextBlock Text="Ricardo" FontSize="64" Grid.Row="1"/>
     </Grid>
 </Page>
